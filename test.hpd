@@ -1,0 +1,10 @@
+type Student {
+    int age;
+    string name;
+    float height;
+    boolean graduated;
+    int[] data1;
+    string[] data2;
+    float[] data3;
+    boolean[] data4;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "hpd-cli",
+  "version": "1.0.0",
+  "description": "hpd文本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "bin": {
+    "hpd": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hepeidong/hpd.git"
+  },
+  "keywords": [
+    "hpd"
+  ],
+  "author": "He Pei Dong（何沛东）",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hepeidong/hpd/issues"
+  },
+  "homepage": "https://github.com/hepeidong/hpd#readme",
+  "dependencies": {
+    "@types/node": "^18.7.1",
+    "minimist": "^1.2.6"
+  }
+}
