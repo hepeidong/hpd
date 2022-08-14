@@ -1,3 +1,5 @@
+
+
 type Student {
     int age;
     string name;
@@ -7,4 +9,9 @@ type Student {
     string[] data2;
     float[] data3;
     boolean[] data4;
+}
+
+type Teacher {
+    string name;
+    int age;
 }
